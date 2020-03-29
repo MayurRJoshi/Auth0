@@ -12,6 +12,6 @@
   "is_domain_connection": false,
   "enabled_clients": [
     "auth0-deploy-cli-extension",
-    "top"
+    "bottom"
   ]
 }
