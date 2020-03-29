@@ -16,6 +16,6 @@
   ],
   "enabled_clients": [
     "auth0-deploy-cli-extension",
-    "left"
+    "top"
   ]
 }
