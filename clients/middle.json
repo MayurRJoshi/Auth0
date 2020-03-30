@@ -1,6 +1,6 @@
 {
   "is_token_endpoint_ip_header_trusted": false,
-  "name": "middle",
+  "name": "middle2",
   "callbacks": [],
   "is_first_party": true,
   "oidc_conformant": true,
