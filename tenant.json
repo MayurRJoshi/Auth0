@@ -1,6 +1,6 @@
 {
   "enabled_locales": [
-    "eni"
+    "en"
   ],
   "flags": {
     "disable_clickjack_protection_headers": false
